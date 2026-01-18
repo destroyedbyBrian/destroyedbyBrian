@@ -45,6 +45,7 @@ I love to be deeply involved in every stage of creation, from **design and syste
 ## 🚀 Featured Work
 
 ⭐ **Current projects:**  
+
 **SpatiaLynk** - A full-stack spatial intelligence platform that generates **Top-K POI recommendations** at multiple spatial granularities (city -> suburb -> building) enabling context-aware, hyper-local suggestions for users.
 
 **PawPals** — A Singapore-based platform connecting pet owners with trusted service providers. Services include **pet walking, pet sitting, pet grooming, vet visits, and housecall vet visits**.
