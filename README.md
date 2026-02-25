@@ -24,13 +24,16 @@ I love to be deeply involved in every stage of creation, from **design and syste
 - SQL
 - Swift
 - Python
+- Java
+- Golang
 
 **Frameworks & Libraries**
 - React
 - React Native
 - Node.js
-- SwiftUI
+- FastAPI
 - TensorFlow
+- PyTorch
 
 **Tools & Platforms**
 - Git
