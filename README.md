@@ -4,5 +4,5 @@
 
 ## 🎉 Fun Facts
 
-- I'm a fish
+- I'm fish
 
