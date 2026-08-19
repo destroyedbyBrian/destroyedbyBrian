@@ -59,7 +59,5 @@ Check out my pinned projects below 👇
 
 ## 🎉 Fun Facts
 
-- I coach badminton regularly
-- I love cats
-- Hobbies: sitcoms, anime, and working out
+- I'm a fish
 
